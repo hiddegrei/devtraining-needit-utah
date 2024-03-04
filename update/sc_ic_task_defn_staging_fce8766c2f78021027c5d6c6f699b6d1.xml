@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_task_defn_staging">
+    <sc_ic_task_defn_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_details>User: Aileen Mottern</assignment_details>
+        <assignment_group/>
+        <assignment_type>custom_assignment</assignment_type>
+        <assignment_user display_value="Aileen Mottern">71826bf03710200044e0bfc8bcbe5d3b</assignment_user>
+        <description/>
+        <order>100</order>
+        <sc_ic_item_staging/>
+        <sc_ic_task_assign_defn_staging/>
+        <short_description>test description</short_description>
+        <sys_class_name>sc_ic_task_defn_staging</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 14:00:17</sys_created_on>
+        <sys_id>fce8766c2f78021027c5d6c6f699b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_ic_task_defn_staging_fce8766c2f78021027c5d6c6f699b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 14:00:17</sys_updated_on>
+    </sc_ic_task_defn_staging>
+    <sys_translated_text action="delete_multiple" query="documentkey=fce8766c2f78021027c5d6c6f699b6d1"/>
+</record_update>
